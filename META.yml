@@ -1,0 +1,34 @@
+abstract: Specification for modules bundled with Strawberry Perl
+author: 'Adam Kennedy <adamk@cpan.org>'
+distribution_type: module
+generated_by: Module::Install version 0.62
+license: perl
+name: Task-StrawberryPerl
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Archive::Tar: 1.29
+  Archive::Zip: 1.16
+  CPAN: 1.87
+  Compress::Zlib: 1.41
+  Digest::SHA: 5.41
+  ExtUtils::Install: 1.40
+  ExtUtils::MakeMaker: 6.30
+  File::HomeDir: 0.58
+  File::Spec: 3.18
+  File::Temp: 0.16
+  Getopt::Long: 2.35
+  LWP: 5.805
+  Module::Build: 0.2801
+  Term::ReadKey: 2.30
+  Term::ReadLine::Perl: 1.0302
+  Test::Builder: 0.62
+  Test::Builder::Tester: 1.02
+  Test::Harness: 2.60
+  Test::More: 0.62
+  Text::Glob: 0.06
+  YAML: 0.58
+  perl: 5.8.5
+version: 0.01
